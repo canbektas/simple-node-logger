@@ -1,0 +1,11 @@
+{
+  "name": "simple-node-logger",
+  "version": "1.0.0",
+  "description": "Simple Logger for Node JS",
+  "main": "dist/logger.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test/*test.js test/**/*test.js --reporter spec"
+  },
+  "author": "Can Bektaş",
+  "license": "ISC",
+}
